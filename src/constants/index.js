@@ -19,7 +19,7 @@ export const navigation = [
   },
   {
     id: "3",
-    title: "Agenda",
+    title: "Faqs",
     url: "#agenda",
   },
   {
